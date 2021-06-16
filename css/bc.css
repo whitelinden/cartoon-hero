@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	font-family: 'Mukta', sans-serif;;
+}
+
+header{
+	box-sizing: content-box;
+	width: 100%;
+	padding: 5px;
+	background-image: url(file:///Users/masha/Documents/GitHub/cartoon-hero/img/bg1.JPG);
+	background-repeat: no-repeat;
+    background-size: cover;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 250px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+h2{
+	font-size: 30px;
+	color: #2C3E50;
+}
+main img{
+	max-width: 100%;
+}
+
+p{
+	color: #566573;
+}
+
+ol{
+	color: #566573;
+}
+
+ul{
+	color: #566573;
+}
+header img{
+	border-radius: 700px;
+	width: 270px;
+	border: 10px solid mediumpurple;
+}
+
+a{
+	color: #581845;
+
+}
+
+a:hover{
+	color: #1B4F72;
+}
+
+footer{
+	background-color: black;
+	text-align: center;
+	padding: 50px;
+
+footer p{
+	margin: 0;
+}
+}
